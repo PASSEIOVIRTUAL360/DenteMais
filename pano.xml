@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="20981" hassounds="0" appversion="7.1.7">
+  <panorama id="node1">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18417158" nodeid="node1" source="" datetime="23/04/2025 17:10" heading="0" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32930440" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="0.50543" skinid="ht_node" distance="3.47386" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node2}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18414034" nodeid="node2" source="" datetime="23/04/2025 17:11" heading="0" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32930468" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-179.495" skinid="ht_node" distance="3.47386" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node1}" id="Point01"/>
+      <hotspot pan="22.2487" skinid="ht_node" distance="3.48885" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node3}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18411130" nodeid="node3" source="" datetime="23/04/2025 17:15" heading="0" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32931675" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-157.751" skinid="ht_node" distance="3.48885" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node2}" id="Point01"/>
+      <hotspot pan="94.5293" skinid="ht_node" distance="3.71735" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node4}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-102.678">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18411394" nodeid="node4" source="" datetime="23/04/2025 17:16" heading="-102.678" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32935061" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-188.149" skinid="ht_node" distance="3.71735" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node3}" id="Point01"/>
+      <hotspot pan="-0.0860001" skinid="ht_node" distance="3.53466" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node5}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-98.2076">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18412087" nodeid="node5" source="" datetime="23/04/2025 17:16" heading="-98.2076" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32938213" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-175.616" skinid="ht_node" distance="3.53466" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node4}" id="Point01"/>
+      <hotspot pan="-255.088" skinid="ht_node" distance="3.55099" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node6}" id="Point02"/>
+      <hotspot pan="0.67228" skinid="ht_node" distance="3.56571" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node8}" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-209.539">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18415024" nodeid="node6" source="" datetime="23/04/2025 17:17" heading="-209.539" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32936939" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-186.419" skinid="ht_node" distance="3.55099" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node5}" id="Point01"/>
+      <hotspot pan="-293.952" skinid="ht_node" distance="3.39243" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node7}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="78.8839">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18414727" nodeid="node7" source="" datetime="23/04/2025 17:18" heading="78.8839" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32933854" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="174.47" skinid="ht_node" distance="3.39243" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node6}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-101.4">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18412582" nodeid="node8" source="" datetime="23/04/2025 17:20" heading="-101.4" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32941432" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-182.52" skinid="ht_node" distance="3.56571" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node5}" id="Point01"/>
+      <hotspot pan="-90.0915" skinid="ht_node" distance="3.92919" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node9}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-7.34924">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18409117" nodeid="node9" source="" datetime="23/04/2025 17:22" heading="-7.34924" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32942136" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-176.041" skinid="ht_node" distance="3.92919" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node8}" id="Point01"/>
+      <hotspot pan="-69.1378" skinid="ht_node" distance="3.4154" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node10}" id="Point02"/>
+      <hotspot pan="81.1023" skinid="ht_node" distance="4.07386" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node11}" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-267.411">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18407665" nodeid="node10" source="" datetime="23/04/2025 17:23" heading="-267.411" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32939386" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-149.2" skinid="ht_node" distance="3.4154" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node9}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-88.7202">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18409018" nodeid="node11" source="" datetime="23/04/2025 17:24" heading="-88.7202" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32945857" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-180.269" skinid="ht_node" distance="4.07386" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node9}" id="Point01"/>
+      <hotspot pan="-74.9519" skinid="ht_node" distance="3.85355" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node12}" id="Point02"/>
+      <hotspot pan="88.3227" skinid="ht_node" distance="3.5641" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node14}" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-99.3243">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18405652" nodeid="node12" source="" datetime="23/04/2025 17:24" heading="-99.3243" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32946695" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-265.556" skinid="ht_node" distance="3.85355" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node11}" id="Point01"/>
+      <hotspot pan="12.3569" skinid="ht_node" distance="3.27768" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node13}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-112.262">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18406741" nodeid="node13" source="" datetime="23/04/2025 17:25" heading="-112.262" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32949478" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-180.581" skinid="ht_node" distance="3.27768" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node12}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-91.8456">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18412219" nodeid="node14" source="" datetime="23/04/2025 17:25" heading="-91.8456" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32946025" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-94.8027" skinid="ht_node" distance="3.5641" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node11}" id="Point01"/>
+      <hotspot pan="27.0406" skinid="ht_node" distance="3.6461" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node15}" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" overlap="1" height="1472" levelbias="0.400" levelingroll="0" width="1472" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbiashidpi="1.000">
+      <level predecode="0" width="1472" height="1472" preload="0"/>
+      <level predecode="0" width="736" height="736" preload="0"/>
+      <level predecode="1" width="368" height="368" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-156.79">
+      <start pan="0" fov="100" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" fov="140" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata latitude="-10.18413803" nodeid="node15" source="" datetime="23/04/2025 17:26" heading="-156.79" description="" title="Dente Mais" author="" tags="OFII" info="" customnodeid="" copyright="" longitude="-48.32948942" comment=""/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label background="1" wordwrap="1" height="20" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" textcolor="0x000000" borderalpha="1" border="1" width="180" textalpha="1" backgroundalpha="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
+      <hotspot pan="-217.904" skinid="ht_node" distance="3.6461" tilt="0" description="" title="Dente Mais" target="$fwd" url="{node14}" id="Point01"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" blendcolor="0x000000" zoomfov="40" zoomafterinfov="140" zoomout="0" zoomspeed="2" zoomoutpause="1" blendtime="1" zoomafteroutfov="40" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" lockedmouse="0" zoomcentercursor="1" sensitivity="8" hideabout="0" simulatemass="1" lockedkeyboard="0" dblclickfullscreen="0" lockedwheel="0" contextvr="1" speedwheel="1" invertcontrol="1" invertwheel="0" contextfullscreen="1" contextprojections="0" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" title="" author="" tags="" copyright="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
